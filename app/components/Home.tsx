@@ -1,6 +1,7 @@
 "use client";
 
 const Home = () => {
+  console.log("Home");
   return (
     <div className="mx-auto max-w-lg px-4 text-center">
       <h1 className="text-2xl font-semibold text-red-400">Home</h1>
